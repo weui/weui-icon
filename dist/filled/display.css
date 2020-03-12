@@ -1,0 +1,17 @@
+/*!
+ * weui-icon v0.1.0 (https://github.com/weui/weui-icon)
+ * Copyright 2020 Tencent, Inc.
+ * Licensed under the MIT license
+ */
+
+[class^="weui-icon-"], [class*=" weui-icon-"] {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+  background-color: currentColor;
+  -webkit-mask: none center center / contain no-repeat;
+}
+.weui-icon-filled-display {
+  -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 5a1 1 0 011-1h18a1 1 0 011 1v13a1 1 0 01-1 1H3a1 1 0 01-1-1V5zm6 16.05c0-.414.344-.75.753-.75h6.494a.75.75 0 01.753.75v.75H8v-.75z' fill-rule='evenodd' fill-opacity='.9'/%3E%3C/svg%3E");
+}
