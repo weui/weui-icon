@@ -1,5 +1,5 @@
 /*!
- * weui-icon v0.1.0 (https://github.com/weui/weui-icon)
+ * weui-icon v1.0.0 (https://github.com/weui/weui-icon)
  * Copyright 2020 Tencent, Inc.
  * Licensed under the MIT license
  */
