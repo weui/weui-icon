@@ -1,6 +1,6 @@
 /*!
- * weui-icon v1.0.0 (https://github.com/weui/weui-icon)
- * Copyright 2020 Tencent, Inc.
+ * weui-icon v1.0.1 (https://github.com/weui/weui-icon)
+ * Copyright 2021 Tencent, Inc.
  * Licensed under the MIT license
  */
 
@@ -10,7 +10,12 @@
   width: 24px;
   height: 24px;
   background-color: currentColor;
-  -webkit-mask: none center center / contain no-repeat;
+  -webkit-mask-position: center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center center;
+  mask-size: contain;
+  mask-repeat: no-repeat;
 }
 .weui-icon-filled-music {
   -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18 4.309L8 6.5v12.7c0 .937-.627 1.85-1.47 2.243-.157.073-1.148.295-1.277.32-1.243.25-2.198-.814-2.25-1.89-.053-1.077.653-1.974 1.472-2.139l1.265-.317c.447-.112.76-.514.76-.975V5.96a1 1 0 01.786-.976l11.607-2.542a.5.5 0 01.607.488v13.61c0 .937-.633 1.85-1.483 2.243-.158.073-1.158.295-1.288.32-1.253.25-2.217-.814-2.27-1.89-.053-1.077.66-1.974 1.485-2.139l1.292-.32c.449-.11.764-.513.764-.975v-9.47z' fill-rule='evenodd' fill-opacity='.9'/%3E%3C/svg%3E");

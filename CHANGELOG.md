@@ -1,3 +1,13 @@
+### [v1.0.1](https://github.com/weui/weui-icon/compare/v1.0.0...v1.0.1) (2021-10-20)
+
+#### Features
+* feat: add package-lock([c179b07](https://github.com/weui/weui-icon/commit/c179b07))
+
+#### Bugfixes
+* fix: 不覆盖weui.css的样式([2a54805](https://github.com/weui/weui-icon/commit/2a54805))
+
+
+
 ### [v1.0.0](https://github.com/weui/weui-icon/compare/v0.1.0...v1.0.0) (2020-03-13)
 
 #### Bugfixes
