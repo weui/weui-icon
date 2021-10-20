@@ -7,7 +7,12 @@ const headerTmpl =
   width: 24px;
   height: 24px;
   background-color: currentColor;
-  -webkit-mask: none center center / contain no-repeat;
+  -webkit-mask-position: center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center center;
+  mask-size: contain;
+  mask-repeat: no-repeat;
 }
 `;
 
