@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 .cache
+.npmrc
 
 # local env files
 .env.local
