@@ -1,3 +1,11 @@
+### [v1.0.2](https://github.com/weui/weui-icon/compare/v1.0.1...v1.0.2) (2021-11-11)
+
+#### Features
+* feat: 支持随字体放大而放大([45897f9](https://github.com/weui/weui-icon/commit/45897f9))
+* feat: add .npmrc([df88fc1](https://github.com/weui/weui-icon/commit/df88fc1))
+
+
+
 ### [v1.0.1](https://github.com/weui/weui-icon/compare/v1.0.0...v1.0.1) (2021-10-20)
 
 #### Features
