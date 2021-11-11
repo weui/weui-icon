@@ -4,8 +4,9 @@ const headerTmpl =
 `[class^="weui-icon-"], [class*=" weui-icon-"] {
   display: inline-block;
   vertical-align: middle;
-  width: 24px;
-  height: 24px;
+  font-size: 10px;
+  width: 2.4em;
+  height: 2.4em;
   background-color: currentColor;
   -webkit-mask-position: center center;
   -webkit-mask-size: contain;
