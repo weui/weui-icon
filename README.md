@@ -19,7 +19,7 @@ WeUI icon 是 WeUI 的 配套图标库，目前分为`filled (填充)`和`outlin
 
 html
 ```html
-<link rel="stylesheet" href="https://res.wx.qq.com/t/wx_fed/cdn_libs/res/weui-icon/1.0.0/weui-icon.css" />
+<link rel="stylesheet" href="https://res.wx.qq.com/t/wx_fed/cdn_libs/res/weui-icon/1.0.2/weui-icon.css" />
 
 <span class="weui-icon-filled-add-friends"></span>
 <span class="weui-icon-outlined-add-friends"></span>
