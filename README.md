@@ -3,6 +3,8 @@ WeUI icon
 
 [![npm version](https://img.shields.io/npm/v/weui-icon.svg)](https://www.npmjs.org/package/weui-icon)
 
+在线预览：[WeUI Icon | Iconify](https://icon-sets.iconify.design/weui/)
+
 ## 概述
 
 WeUI icon 是 WeUI 的 配套图标库，目前分为`filled (填充)`和`outlined (描边)`两种样式，具体可见下述预览图。
